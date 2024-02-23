@@ -1,2 +1,2 @@
 # Weatherapp
-Weather App
+Weather App uisng Flask,Python,Openweather.org API
